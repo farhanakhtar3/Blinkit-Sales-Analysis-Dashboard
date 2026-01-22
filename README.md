@@ -22,9 +22,6 @@ This project presents an interactive **Power BI dashboard** created to analyze B
 - Power BI
 - Excel (Data Cleaning & Preparation)
 
-## 📷 Dashboard Preview
-![Blinkit Dashboard](dashboard.png)
-
 ## 📈 Business Impact
 Helps stakeholders understand sales performance, customer preferences, and outlet efficiency for better decision-making.
 
