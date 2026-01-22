@@ -25,6 +25,9 @@ This project presents an interactive **Power BI dashboard** created to analyze B
 ## 📈 Business Impact
 Helps stakeholders understand sales performance, customer preferences, and outlet efficiency for better decision-making.
 
+## 📷 Dashboard Preview
+![Blinkit Dashboard](dashboard.png)
+
 ---
 
 ⭐ If you like this project, feel free to star the repository!
